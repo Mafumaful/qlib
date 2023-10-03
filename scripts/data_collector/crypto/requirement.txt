@@ -6,3 +6,5 @@ pandas
 tqdm
 lxml
 pycoingecko
+bs4
+yahooquery
